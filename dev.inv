@@ -1,2 +1,2 @@
 [remoteservers]
-remote@13.126.146.249
+13.126.146.249  ansible_user=ec2-user
