@@ -1,2 +1,2 @@
 [remoteservers]
-13.126.146.249  ansible_user=ec2-user
+13.233.128.15  ansible_user=ec2-user
